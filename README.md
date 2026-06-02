@@ -25,7 +25,7 @@
 - 🔗 **API / ESB 데이터 표준화 연계**와 실시간 관제 데이터 처리에 경험이 있습니다.
 - 🤖 **AI**(YOLO v5 객체인식)부터 **자동차 임베디드 SW**(CAN/CAPL)까지 폭넓게 학습했습니다.
 - 🌱 새로운 도메인과 기술을 빠르게 익히는 것을 즐깁니다.
-- 📫 **dbal1107@gmail.com**
+- 📫 **inorrni@gmail.com**
 
 </td></tr>
 </table>
@@ -109,7 +109,7 @@
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/dbal1107@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbal1107@gmail.com)
+[![Email](https://img.shields.io/badge/inorrni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inorrni@gmail.com)
 [![GitHub](https://img.shields.io/badge/inorrni-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inorrni)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=inorrni&color=4FC08D&style=flat-square&label=Profile+Views)
