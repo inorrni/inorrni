@@ -65,11 +65,10 @@
 
 ## 💼 Career & Experience
 
-### 🌊 AI 부트캠프 <kbd>6개월</kbd>
-> AI 객체인식 및 웹 개발
+### 🤖 자동차 SW 부트캠프 <kbd>6개월</kbd>
+> 차량 네트워크 및 임베디드 SW 검증
 
-- **YOLO v5 해양폐기물 객체인식** &nbsp;`Python`
-- **Django / JavaScript 웹 애플리케이션** 개발 &nbsp;`Django` `JavaScript` `MySQL`
+- `CANoe` `CAN` `DBC` `CAPL` 기반 차량 통신 시뮬레이션
 
 ### 🏢 SI 회사 — 백엔드 개발자 <kbd>2년 8개월</kbd>
 > 자율주행 · 지능형교통체계(ITS) 도메인 시스템 개발
@@ -81,10 +80,11 @@
 - **데이터 표준화 API / ESB 연계** &nbsp;`Java` `Tibero`
   - 이기종 시스템 간 데이터 표준화 및 연계 인터페이스 개발
 
-### 🤖 자동차 SW 부트캠프 <kbd>6개월</kbd>
-> 차량 네트워크 및 임베디드 SW 검증
+### 🌊 AI 부트캠프 <kbd>6개월</kbd>
+> AI 객체인식 및 웹 개발
 
-- `CANoe` `CAN` `DBC` `CAPL` 기반 차량 통신 시뮬레이션
+- **YOLO v5 해양폐기물 객체인식** &nbsp;`Python`
+- **Django / JavaScript 웹 애플리케이션** 개발 &nbsp;`Django` `JavaScript` `MySQL`
 
 <br/>
 
