@@ -33,7 +33,6 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Database**
 
@@ -60,9 +59,8 @@
 ### 🏢 SI 회사 — 백엔드 개발자 `2년 8개월`
 > 자율주행 · 지능형교통체계(ITS) 도메인 시스템 개발
 
-- **V2X 자율주행차량 관제 시스템** — `Java` `Vue` `Kafka` `VWorld` `Oracle`
+- **V2X 자율주행차량 관제 시스템** — `Java` `Vue` `Oracle`
   - 차량 실시간 위치/상태 데이터 수집 및 관제 화면 연동
-  - Kafka 기반 실시간 메시지 스트리밍 처리, VWorld 지도 기반 시각화
 - **ITS 교통 소통 정보 시스템** — `Java` `React` `Oracle`
   - 도로 구간별 교통 소통 정보 수집 및 제공
 - **데이터 표준화 API / ESB 연계** — `Java` `Tibero`
@@ -71,7 +69,7 @@
 ### 🤖 자동차 SW 부트캠프 `6개월`
 > 차량 네트워크 및 임베디드 SW 검증
 
-- `CANoe` `CAN` `DBC` `CAPL` 기반 차량 통신 시뮬레이션 및 테스트
+- `CANoe` `CAN` `DBC` `CAPL` 기반 차량 통신 시뮬레이션
 
 ---
 
