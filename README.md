@@ -1,9 +1,7 @@
 <div align="center">
 
-# 안녕하세요, 백엔드 개발자입니다 👋
-
-**자율주행 V2X · ITS · 자동차 SW** 도메인을 거쳐온 개발자입니다.<br/>
-대용량 실시간 데이터 처리와 시스템 연계에 관심이 많습니다.
+**AI · 자율주행/교통 · 자동차 SW**를 아우르는<br/>
+폭넓은 경험을 갖춘 개발자입니다.
 
 </div>
 
@@ -36,6 +34,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Database**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Tibero](https://img.shields.io/badge/Tibero-1A5276?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI / Automotive**
 
