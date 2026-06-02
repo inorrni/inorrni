@@ -25,8 +25,6 @@
 - 🔗 **API / ESB 데이터 표준화 연계**와 실시간 관제 데이터 처리에 경험이 있습니다.
 - 🤖 **AI**(YOLO v5 객체인식)부터 **자동차 임베디드 SW**(CAN/CAPL)까지 폭넓게 학습했습니다.
 - 🌱 새로운 도메인과 기술을 빠르게 익히는 것을 즐깁니다.
-- 🎓 **전공** · 환경공학과
-- 📜 **자격증** · SQLD (SQL 개발자)
 - 📫 **dbal1107@gmail.com**
 
 </td></tr>
@@ -87,6 +85,13 @@
 
 - **YOLO v5 해양폐기물 객체인식** &nbsp;`Python`
 - **Django / JavaScript 웹 애플리케이션** 개발 &nbsp;`Django` `JavaScript` `MySQL`
+
+<br/>
+
+## 🎓 Education & Certifications
+
+- 🎓 **전공** · 환경공학과
+- 📜 **자격증** · SQLD (SQL 개발자)
 
 <br/>
 
