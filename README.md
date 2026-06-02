@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=inorrni&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Mobility%20%C2%B7%20Automotive%20SW%20Developer&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=%EC%A0%84%EC%9C%A0%EB%AF%B8&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Monitoring%20%C2%B7%20Automotive%20SW%20Developer&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/inorrni">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=520&lines=Backend+Developer;AI+%C2%B7+Mobility+%C2%B7+Automotive+SW;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=520&lines=Backend+Developer;AI+%C2%B7+Monitoring+%C2%B7+Automotive+SW;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
 
-**AI · 자율주행/교통 · 자동차 SW**를 아우르는 폭넓은 경험을 갖춘 개발자입니다.
+**AI · 관제/대시보드 · 자동차 SW**를 아우르는 폭넓은 경험을 갖춘 개발자입니다.
 
 </div>
 
