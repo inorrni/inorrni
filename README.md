@@ -51,17 +51,17 @@
 > AI 객체인식 및 웹 개발
 
 - **YOLO v5 해양폐기물 객체인식** — `Python`
-- **Django / JavaScript 웹 애플리케이션** 개발
+- **Django / JavaScript 웹 애플리케이션** 개발 — `Django` `JavaScript` `MySQL`
 
 ### 🏢 SI 회사 — 백엔드 개발자 `2년 8개월`
 > 자율주행 · 지능형교통체계(ITS) 도메인 시스템 개발
 
-- **V2X 자율주행차량 관제 시스템** — `Java` `Vue` `Kafka` `VWorld`
+- **V2X 자율주행차량 관제 시스템** — `Java` `Vue` `Kafka` `VWorld` `Oracle`
   - 차량 실시간 위치/상태 데이터 수집 및 관제 화면 연동
   - Kafka 기반 실시간 메시지 스트리밍 처리, VWorld 지도 기반 시각화
-- **ITS 버스 소통 정보 시스템** — `Java` `React`
-  - 버스 운행 데이터 기반 교통 소통 정보 제공
-- **데이터 표준화 API / ESB 연계**
+- **ITS 교통 소통 정보 시스템** — `Java` `React` `Oracle`
+  - 도로 구간별 교통 소통 정보 수집 및 제공
+- **데이터 표준화 API / ESB 연계** — `Java` `Tibero`
   - 이기종 시스템 간 데이터 표준화 및 연계 인터페이스 개발
 
 ### 🤖 자동차 SW 부트캠프 `6개월`
